@@ -37,13 +37,8 @@
         "drupal/consumers": "1.21.0",
         "drupal/contact_storage": "1.4.0",
         "drupal/context": "5.0.0-rc2",
-<<<<<<< HEAD
         "drupal/core-composer-scaffold": "10.5.9",
         "drupal/core-recommended": "10.5.9",
-=======
-        "drupal/core-composer-scaffold": "10.5.8",
-        "drupal/core-recommended": "10.5.8",
->>>>>>> 0a7d237e (Bump the drupal-core group with 2 updates)
         "drupal/crop": "2.4.0",
         "drupal/ctools": "4.1.0",
         "drupal/devel": "5.4.0",
